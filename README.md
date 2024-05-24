@@ -1,2 +1,2 @@
-# perf_lab
-A test task
+# Perfomance lab
+Test task
